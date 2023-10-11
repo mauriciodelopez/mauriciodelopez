@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi, I'm Mauricio 👋 
+Entrepreneur, curious, full of energy, more than 15 years of experience in the sale and development of custom software applications. Today I decide to add one more string to my bow, studying Python, and blockchain technology
+- 🌱 My personal Linkedin : https://www.linkedin.com/in/mauricio-lopez-development/
+
 
 <!--
 **mauriciodelopez/mauriciodelopez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
